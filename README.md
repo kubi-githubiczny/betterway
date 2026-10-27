@@ -4,7 +4,7 @@
 
 Betterway is a wellness brand that does not exist. It offers a free personality diagnosis in ten questions, then shows you exactly what you just handed over, and to whom.
 
-Live: [betterway.jankowski.digital](https://betterway.jankowski.digital)
+Live: [https://betterway.jankowski.digital](https://jankowski.digital/betterway)
 
 ## About
 
